@@ -1,0 +1,9 @@
+{
+  "name": "Node-Placehold-img-generator",
+  "description": "a tool to generate images by NodeJS",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gm": "~1.23.0"
+  }
+}
